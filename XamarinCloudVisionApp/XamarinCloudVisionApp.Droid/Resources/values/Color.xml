@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<!-- 色指定 参考：http://androidhacker.blog94.fc2.com/blog-entry-20.html -->
+<resources>
+  <color name="green">#008000</color>
+  <color name="color_accent">#ffa500</color>
+  <color name="color_primary">#22bfb9</color>
+  <color name="color_primary_dark">#ffffff</color>
+  <color name="subcolor">#ffffff</color>
+</resources>
